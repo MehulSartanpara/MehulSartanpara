@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Shopify App**
 
-- 👨‍💻 All of my projects are available at [https://mehulsartanpara.github.io/portfolio.in](https://mehulsartanpara.github.io/portfolio.in)
+- 👨‍💻 All of my projects are available at [https://mehulsartanpara.github.io/portfolio.com](https://mehulsartanpara.github.io/portfolio.com)
 
 - 💬 Ask me about **PHP/Laravel, React, GSAP and more..**
 
