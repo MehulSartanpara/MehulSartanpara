@@ -1,36 +1,112 @@
-<h1 align="center">Hi 👋, I'm Mehul</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:052e16,100:09090b&height=220&section=header&text=Mehul%20Sartanpara&fontSize=54&fontColor=4ade80&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Shopify%20Developer%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=63&descColor=ffffff&descSize=17" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehulsartanpara&label=Profile%20views&color=0e75b6&style=flat" alt="mehulsartanpara" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehulsartanpara" alt="mehulsartanpara" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3500&pause=900&color=4ADE80&center=true&vCenter=true&width=750&lines=⚡+Turning+Shopify+into+a+competitive+advantage;🛒+Custom+Themes+·+Checkout+Extensions+·+Shopify+Apps;🚀+Headless+Storefronts+with+Hydrogen+%26+React;💡+7%2B+Years+crafting+clean%2C+conversion-focused+code;🔌+Shopify+Functions+·+GraphQL+·+Node.js+·+Laravel" />
 
-- 🔭 I’m currently working on **Shopify**
+<br/><br/>
 
-- 🌱 I’m currently learning **Shopify checkout extensions**
+[![Profile Views](https://komarev.com/ghpvc/?username=mehulsartanpara&color=4ade80&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/MehulSartanpara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehul-sartanpara-101a09231)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sartanparamehul@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21626504/mehul-sartanpara)
 
-- 👯 I’m looking to collaborate on **Shopify themes/Apps**
+</div>
 
-- 🤝 I’m looking for help with **Shopify App**
+---
 
-- 👨‍💻 All of my projects are available at [https://mehulsartanpara.pages.dev/](https://mehulsartanpara.pages.dev)
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" />
 
-- 💬 Ask me about **PHP/Laravel, React, GSAP and more..**
+### `$ cat about.json`
 
-- 📫 How to reach me **sartanparamehul@gmail.com**
+```json
+{
+  "name"       : "Mehul Sartanpara",
+  "role"       : "Full-Stack Shopify Developer",
+  "experience" : "7+ years",
+  "location"   : "India 🇮🇳",
+  "specialties": [
+    "Shopify Plus & Custom Themes",
+    "Checkout UI Extensions",
+    "Shopify Functions",
+    "Headless Storefronts (Hydrogen)",
+    "Shopify App Development"
+  ],
+  "also_builds": ["React", "Next.js", "Node.js", "PHP / Laravel"],
+  "currently"  : "Building stores that convert 🚀",
+  "fun_fact"   : "I debug Liquid at 2am and I enjoy it 🫠"
+}
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mehulsartanpara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehulsartanpara" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mehul-sartanpara-101a09231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehulsartanpara" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21626504/mehul-sartanpara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mehulsartanpara" height="30" width="40" /></a>
-<a href="https://fb.com/mehul.sartanpara.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehulsartanpara" height="30" width="40" /></a>
-<a href="https://instagram.com/mehulsartanpara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehulsartanpara" height="30" width="40" /></a>
-</p>
+<br clear="right"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehulsartanpara&show_icons=true&locale=en&layout=compact" alt="mehulsartanpara" /></p>
+### 🛒 Shopify Expertise
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehulsartanpara&" alt="mehulsartanpara" /></p>
+| Specialty | Stack |
+|:----------|:------|
+| 🎨 **Custom Themes** | Liquid · Dawn · Slate · Performance-first |
+| 🧩 **Checkout Extensions** | UI Extensions · Shopify Functions |
+| 🚀 **Headless / Hydrogen** | Storefront API · Remix · Hydrogen |
+| 🔌 **Shopify Apps** | Node.js · REST & GraphQL Admin API |
+| 📦 **Integrations** | Klaviyo · Rebuy · Recharge |
+
+---
+
+### 🧰 Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap&theme=dark)](https://skillicons.dev)
+
+**Backend & Database**
+
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,php,laravel,graphql,mysql,postgres,sqlite&theme=dark)](https://skillicons.dev)
+
+**Tools & Design**
+
+[![Skills](https://skillicons.dev/icons?i=git,github,figma,linux,ps,vscode&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mehulsartanpara&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=4ADE80&title_color=4ADE80&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mehulsartanpara&theme=github-dark-blue&hide_border=true&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80&background=0d1117" />
+</div>
+
+<div align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehulsartanpara&layout=compact&theme=github_dark&hide_border=true&title_color=4ADE80&bg_color=0d1117&langs_count=8" />
+</div>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=mehulsartanpara&theme=darkhub&no-frame=true&no-bg=true&row=1&column=8&margin-w=4" />
+</div>
+
+---
+
+### 📈 Contribution Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehulsartanpara&bg_color=0d1117&color=4ade80&line=4ade80&point=ffffff&area=true&hide_border=true&area_color=4ade8020" />
+
+---
+
+### 😄 Dev Joke of the Day
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=%230d1117&textColor=%23a1a1aa&qColor=%234ade80&aColor=%234ade80&borderColor=%2327272a&codeColor=%2322d3ee" />
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:052e16,100:09090b&height=130&section=footer" />
